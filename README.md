@@ -115,3 +115,7 @@ Used to create a user-friendly interface for file selection and encryption opera
 
 -The GUI guides users with clear instructions for successful operation.
 
+![Screenshot 2025-01-05 124846](https://github.com/user-attachments/assets/4cbc7a8f-b812-42f3-a8bf-263e0591959f)
+
+![Screenshot 2025-01-05 124859](https://github.com/user-attachments/assets/67862629-bd3a-4b3e-b2c8-585cdf9eea81)
+
